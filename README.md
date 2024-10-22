@@ -34,17 +34,17 @@ biblioteca - Bootstrap (site: https://getbootstrap.com/).
 
 ## Estruturação das pastas no repositório
 
-projeto-web-iniciante/        # Repositório
-├── Criaturas_Paleo/          # Pasta Principal
-│   ├── index.html            # Página principal
-│   ├── src/                  # Subpasta principal
-│       ├── css/              # Subpasta de estilização
-        ├── assets/           # Subpasta secundária           
-│           ├── imagens/      # Subpasta de imagens
-            ├── font/         # Subpasta da fonte
-            ├── video/        # Subpasta do vídeo  
-            ├── audio/        # Subpasta do áudio                             
-│       └── js/               # Subpasta de interação
+projeto-web-iniciante/ # Repositório
+├── Criaturas_Paleo/ # Pasta Principal
+│   ├── index.html # Página principal
+│   ├── src/ # Subpasta principal
+│       ├── css/ # Subpasta de estilização
+        ├── assets/ # Subpasta secundária           
+│           ├── imagens/ # Subpasta de imagens
+            ├── font/ # Subpasta da fonte
+            ├── video/ # Subpasta do vídeo  
+            ├── audio/ # Subpasta do áudio                             
+│       └── js/ # Subpasta de interação
 └── README.md
 
 ## Observação
