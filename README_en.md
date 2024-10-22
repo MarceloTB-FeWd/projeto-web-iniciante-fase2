@@ -1,10 +1,14 @@
+## 🌐
+[![Português](https://img.shields.io/badge/-Português-green)](README.md)  
+[![English](https://img.shields.io/badge/-English-blue)](README_en.md)
+
 # Project Name
 
 Project - CloneFLIX
 
 > This project represents my second experience with web development, focusing on the front-end. It is intentionally simple and should be considered one of the initial steps in a longer learning journey.
 
-> This website was created using HTML, CSS, and JavaScript as part of my web development studies. It is a simplified model (basic) of an interface inspired by the streaming platform - NETFLIX. This project also marked my first experience embedding a video file (.mp4) on a web page and interacting with a pre-built component provided by the Bootstrap library (site: https://getbootstrap.com/).
+> This website was created using HTML, CSS, and JavaScript as part of my web development studies. It is a simplified model (primary) of an interface inspired by the streaming platform - NETFLIX. This project also marked my first experience embedding a video file (.mp4) on a web page and interacting with a pre-built component provided by the Bootstrap library (site: https://getbootstrap.com/).
 
 ## Features
 
@@ -12,7 +16,7 @@ Project - CloneFLIX
 - Toggle video sound on and off with a button;
 - Create a modal (menu) accessible through the "More Information" link with a click;
 - Allow the modal (menu) to open and close with individual clicks;
-- Utilize a ready-made image carousel component available in the Bootstrap components library.
+- Utilize a ready-made image carousel component in the Bootstrap components library.
 
 ## Technologies Used
 
