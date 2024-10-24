@@ -49,10 +49,8 @@ projeto-web-iniciante/ # Repositório
 
 ## Observação
 
-O passo-a-passo do projeto foi só até certo ponto (na questão do código e para subir o projeto em um site). A criação e  
-organização dos arquivos como: "reset.css"; "responsivo.css";criação dos <span> e outras modificações visuais; 
-estruturação das pastas; subir para o github; publicar no githubpages, foram implementadas por mim, através dos estudos e conhecimentos
-adquiridos até o momento.
+O passo-a-passo do projeto foi só até certo ponto (na questão do código e para subir o projeto em um site). 
+A criação e organização dos arquivos como: "reset.css"; "responsivo.css"; e outras modificações visuais; estruturação das pastas; subir para o github; publicar no githubpages, foram implementadas por mim, através dos estudos e conhecimentos adquiridos até o momento.
 
 Este projeto utiliza um trecho de vídeo de 2 minutos e 07 segundos para fins exclusivamente educacionais e de aprendizado. 
 O conteúdo audiovisual é propriedade da Netflix e foi incluído apenas como parte do estudo sobre desenvolvimento web e criação 
