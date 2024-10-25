@@ -30,8 +30,8 @@ Project - CloneFLIX
 
 ## Folder Structure in the Repository
 
-projeto-web-iniciante/        # Repository  
-├── Criaturas_Paleo/          # Main folder  
+projeto-web-iniciante-fase2/  # Repository  
+├── CloneFlix/                # Main folder  
 │   ├── index.html            # Main page  
 │   ├── src/                  # Primary subfolder  
 │       ├── css/              # Styling subfolder  
