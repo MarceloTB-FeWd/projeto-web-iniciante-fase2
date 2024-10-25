@@ -35,7 +35,7 @@ biblioteca - Bootstrap (site: https://getbootstrap.com/).
 ## Estruturação das pastas no repositório
 
 projeto-web-iniciante-fase2/ # Repositório
-├── Criaturas_Paleo/ # Pasta Principal
+├── Cloneflix/ # Pasta Principal
 │   ├── index.html # Página principal
 │   ├── src/ # Subpasta principal
 │       ├── css/ # Subpasta de estilização
