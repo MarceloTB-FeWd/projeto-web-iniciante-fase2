@@ -29,7 +29,7 @@ Project - CloneFLIX
 - [GitHub Pages](https://pages.github.com/) (for free website hosting).
 
 ## Folder Structure in the Repository
-
+```
 projeto-web-iniciante-fase2/  # Repository  
 ├── CloneFlix/                # Main folder  
 │   ├── index.html            # Main page  
@@ -42,14 +42,13 @@ projeto-web-iniciante-fase2/  # Repository
             ├── audio/        # Audio subfolder  
 │       └── js/               # Interaction subfolder  
 └── README.md  
-
+```
 ## Notes
 
 The project walkthrough only covered the initial steps (code creation and uploading the project to a site). 
 The creation and organization of files like `reset.css` and `responsivo.css,` the use of `<span>` elements, other visual 
 modifications, folder structuring, and uploading and publishing of the project on GitHub Pages were implemented independently 
 based on the knowledge and skills acquired so far.
-
 This project includes a 2-minute and 7-second video clip for educational and learning purposes only. 
 The audiovisual content belongs to Netflix and was used solely for study purposes related to web development and interface design. 
 There is no commercial intent or redistribution of this content.
