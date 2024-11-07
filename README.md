@@ -33,7 +33,7 @@ biblioteca - Bootstrap (site: https://getbootstrap.com/).
 - [GitHub Pages](https://pages.github.com/) (para hospedar o site de maneira gratuita).
 
 ## Estruturação das pastas no repositório
-
+```
 projeto-web-iniciante-fase2/ # Repositório
 ├── Cloneflix/ # Pasta Principal
 │   ├── index.html # Página principal
@@ -46,7 +46,7 @@ projeto-web-iniciante-fase2/ # Repositório
             ├── audio/ # Subpasta do áudio                             
 │       └── js/ # Subpasta de interação
 └── README.md
-
+```
 ## Observação
 
 O passo-a-passo do projeto foi só até certo ponto (na questão do código e para subir o projeto em um site). 
